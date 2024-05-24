@@ -1,6 +1,6 @@
 # Projeto da Formação GitHub da DIO
 
-O objetivo desse projeto é resolver os desavios abaixo e avançar com o conhecimento prático
+O objetivo desse projeto é resolver os desafios abaixo e avançar com o conhecimento prático
 do GitHub Codespaces e Copilot
 
 _________
